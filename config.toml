@@ -1,4 +1,4 @@
-baseURL = "https://adahollins.github.io/content/"
+baseURL = "https://adahollins.github.io/portfolio/"
 languageCode = "en-us"
 title = "Adrianna Hollins"
 theme = "hugo-creative-portfolio-theme"
