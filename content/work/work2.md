@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Name of the work 2"
 draft = false
-image = "![](<img/portfolio/Screenshot 2023-07-11 105605.png>)"
+image = "![](img/portfolio/Screenshot 2023-07-11 105605.png)"
 showonlyimage = false
 weight = 1
 +++
