@@ -2,8 +2,8 @@
 draft = false
 image = ""
 date = "2016-11-05T19:56:17+05:30"
-title = "Name of the work 6"
-showonlyimage = false
+title = "Insomnia Gaming Festival - Externally Set Task"
+showonlyimage = true
 weight = 6
 +++
 

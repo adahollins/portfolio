@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "Screenshot 2023-07-11 105605.png"
+image = ""
 date = "2016-11-05T18:25:22+05:30"
 title = "Name of the work 1"
 weight = 0

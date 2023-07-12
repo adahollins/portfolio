@@ -1,8 +1,8 @@
 +++
-image = "![](img/portfolio/Final Product Mock-Up.gif)"
-showonlyimage = false
+image = ""
+showonlyimage = true
 date = "2016-11-05T19:44:32+05:30"
-title = "Name of the work 3"
+title = "ABC Book - Lettering Set Display Project"
 draft = false
 weight = 2
 +++
