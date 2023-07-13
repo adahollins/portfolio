@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "Alacritas - Extended Branding Project"
 draft = false
-image = "img/portfolio/ipad-air-2.jpg"
+image = "img/portfolio/Screenshot-2023-07-11-105605.png"
 showonlyimage = false
 weight = 1
 +++

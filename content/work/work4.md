@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "![](<../../static/img/portfolio/Final Product Mock-Up.gif>)"
+image = "img/portfolio/Final-Product-Mock-Up.gif"
 showonlyimage = false
 date = "2016-11-05T19:50:47+05:30"
 title = "LETS MAKE SOME CHAOS - Typography Project"

@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "https://github.com/kishaningithub/hugo-creative-portfolio-theme/raw/master/exampleSite/static/img/portfolio/business-card.jpg"
+image = "img/portfolio/ID-Card-PSD-Stationery-Mockup-1000x750mock_up.png"
 date = "2016-11-05T19:56:17+05:30"
 title = "Insomnia Gaming Festival - Externally Set Task"
 showonlyimage = false
