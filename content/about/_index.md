@@ -9,7 +9,4 @@ I'm Adrianna Hollins, a passionate Graphic Designer and Illustrator with experie
 
 My motivation for getting into graphic design is the help and impact I can help create for someone, if it's for the person using my work or seeing my work. Though my biggest interest in it is because of how much enjoyment I get from the process to the final product. I love having the freedom to use my creativity to produce a graphic or illustration from my imagination as well as the satisfaction of creaing it, and being able to use it for others makes it even more worth it.
 
-#### Education
-
-
 [1]: /img/portfolio/photo-for-cv.png
