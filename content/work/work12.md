@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/envelope-brand.jpg"
+image = ""
 date = "2016-11-05T18:25:22+05:30"
 title = "Name of the work 12"
 weight = 12
