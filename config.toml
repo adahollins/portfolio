@@ -6,12 +6,12 @@ theme = "hugo-creative-portfolio-theme"
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "default"
+  style = "sea"
   description = "Adrianna Hollins"
   copyright = "&copy;2023 Adrianna Hollins"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Poland, currently based in London."
+    "I am a creative illustrator and graphic designer who's passionate about creating.",
+    "Currently based in London."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -51,7 +51,7 @@ theme = "hugo-creative-portfolio-theme"
   url = "contact/"
 
   [params.social]
-  linkedin      = "full profile url in linkedin"
+  linkedin      = "https://www.linkedin.com/in/adrianna-hollins-72b782244/"
   # email         = "email@example.com"
   twitter       = "full profile url in twitter"
-  instagram     = "full profile url in instagram"
+  instagram     = "https://www.instagram.com/adrianna.hollins/"
