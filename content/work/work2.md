@@ -7,5 +7,5 @@ showonlyimage = false
 weight = 1
 +++
 
-Alacritas is a made-up company that specialises in animation, mainly animation for video games. They wanted a design that presented as 'energetic', wanting to show movement and creativity.
+Alacritas is a made-up company that specialises in animation, mainly animation for video games. They wanted a design for their branding that presented as 'energetic', wanting to show movement and creativity.
 <!--more-->
