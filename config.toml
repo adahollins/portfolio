@@ -53,5 +53,5 @@ theme = "hugo-creative-portfolio-theme"
   [params.social]
   linkedin      = "https://www.linkedin.com/in/adrianna-hollins-72b782244/"
   # email         = "email@example.com"
-  twitter       = "full profile url in twitter"
+  # twitter       = "full profile url in twitter"
   instagram     = "https://www.instagram.com/adrianna.hollins/"
