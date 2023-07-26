@@ -10,7 +10,9 @@ weight = 1
 Alacritas is a made-up company that specialises in animation, mainly animation for video games. They wanted a design for their branding that presented as 'energetic', wanting to show movement and creativity.
 <!--more-->
 
-> Add in mock-ups here
+![](../../img/portfolio/Screenshot-2023-07-11-105605.png)
+
+#### Process of Logo
 
 #### Process of Buisness Cards
 > Add in process here
