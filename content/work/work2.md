@@ -13,7 +13,10 @@ Alacritas is a made-up company that specialises in animation, mainly animation f
 ![](../../img/portfolio/Screenshot-2023-07-11-105605.png)
 
 #### Process of Logo
-
+### Initial Ideas
+![](../../img/portfolio/AlacritasLogo-InitialIdeas#1.png)
+![](../../img/portfolio/AlacritasLogo-InitialIdeas#2.png)
+![](../../img/portfolio/AlacritasLogo-InitialIdeas#3.png)
 #### Process of Buisness Cards
 > Add in process here
 
