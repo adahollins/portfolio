@@ -12,7 +12,7 @@ Alacritas is a made-up company that specialises in animation, mainly animation f
 
 ![](../../img/portfolio/Screenshot-2023-07-11-105605.png)
 
-### Process of Logo
+## Process of Logo
 #### Initial Ideas
 ![](../../img/portfolio/AlacritasLogo-InitialIdeas1.png)
 ![](../../img/portfolio/AlacritasLogo-InitialIdeas2.png)
@@ -21,7 +21,7 @@ Alacritas is a made-up company that specialises in animation, mainly animation f
 ![](../../img/portfolio/AlacritasLogo-Refinements1.png)
 ![](../../img/portfolio/AlacritasLogo-Refinements2.png)
 
-#### Process of Buisness Card
+## Process of Buisness Card
 #### Initial Ideas
 ![](../../img/portfolio/AlacritasBusinessCards-InitialIdeas1.png)
 ![](../../img/portfolio/AlacritasBusinessCards-InitialIdeas2.png)
@@ -32,7 +32,7 @@ Alacritas is a made-up company that specialises in animation, mainly animation f
 ![](../../img/portfolio/AlacritasBusinessCards-Refinements1.png)
 ![](../../img/portfolio/AlacritasBusinessCards-Refinements2.png)
 
-#### Process of Compliment Slip
+## Process of Compliment Slip
 #### Initial Ideas
 ![](../../img/portfolio/AlacritasComplimentSlips-InitialIdeas1.png)
 ![](../../img/portfolio/AlacritasComplimentSlips-InitialIdeas2.png)
@@ -44,7 +44,7 @@ Alacritas is a made-up company that specialises in animation, mainly animation f
 ![](../../img/portfolio/AlacritasComplimentSlips-Refinements1.png)
 ![](../../img/portfolio/AlacritasComplimentSlips-Refinements2.png)
 
-#### Process of Letterhead
+## Process of Letterhead
 #### Initial Ideas
 ![](../../img/portfolio/AlacritasLetterheads-InitialIdeas1.png)
 ![](../../img/portfolio/AlacritasLetterheads-InitialIdeas2.png)
