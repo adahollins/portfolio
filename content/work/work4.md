@@ -9,3 +9,12 @@ weight = 4
 
 A quote poster presenting "Let's Make Some Chaos".
 <!--more-->
+
+## Artist Research
+#### Final Responses
+
+## Typography Poster Process
+#### Initial Ideas
+#### Developments
+#### Refinements
+#### Final

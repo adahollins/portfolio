@@ -9,3 +9,29 @@ weight = 2
 
 ABC Book on Video Games
 <!--more-->
+
+## Process of Lettering Display Design
+#### Initial Ideas
+#### Developments
+#### Refinements
+#### Final
+
+## Process of Page Layout
+#### Initial Ideas
+#### Developments
+#### Refinements
+#### Final
+
+## Process of Endpaper
+#### Initial Ideas
+#### Developments
+#### Refinements
+#### Final
+
+## Process of Front and Back Cover
+#### Initial Ideas
+#### Developments
+#### Refinements
+#### Final
+
+## Final Designs
