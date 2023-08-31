@@ -48,7 +48,7 @@ theme = "hugo-creative-portfolio-theme"
 
   [[params.navlinks]]
   name = "CV"
-  url = "https://github.com/adahollins/portfolio/raw/main/static/img/portfolio/CV.pdf"
+  url = "https://github.com/adahollins/portfolio/raw/main/static/img/portfolio/Adrianna_Hollins_CV.pdf"
 
   [params.social]
   linkedin      = "https://www.linkedin.com/in/adrianna-hollins-72b782244/"
