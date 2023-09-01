@@ -10,6 +10,7 @@ weight = 2
 ABC Book on Video Games
 <!--more-->
 
+![](../../static/img/portfolio/rm442-01-02ca.png)
 
 ## Process of Lettering Display Design
 #### Initial Ideas
