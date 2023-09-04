@@ -10,11 +10,16 @@ weight = 4
 A quote poster presenting "Let's Make Some Chaos".
 <!--more-->
 
-## Artist Research
-#### Final Responses
+![](../../img/portfolio/Final-Product-Mock-Up.gif)
 
 ## Typography Poster Process
 #### Initial Ideas
+![](../../img/portfolio/typography_initialidea1.png)
+![](../../img/portfolio/typography_initialidea2.png)
+![](../../img/portfolio/typography_initialidea3.gif)
 #### Developments
+![](../../img/portfolio/typography_development.gif)
 #### Refinements
+![](../../img/portfolio/typography_refinement.gif)
 #### Final
+![](../../img/portfolio/typography_finaldesign.gif)
