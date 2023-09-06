@@ -4,10 +4,10 @@ showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
 title = "ABC Book - Lettering Set Display Project"
 draft = false
-weight = 1
+weight = 2
 +++
 
-ABC Book on Video Games
+I designed an ABC Book on a chosen topic, the topic I picked was Video Games. I had to pick out 10 games to design before researching and working on each design using Adobe Photoshop, including the contents page, end paper and the book cover.
 <!--more-->
 
 ![](../../img/portfolio/rm442-01-02ca.png)

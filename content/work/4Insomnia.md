@@ -7,7 +7,7 @@ showonlyimage = false
 weight = 4
 +++
 
-An unofficial design for the Insomnia Gaming Festival April 2023.
+I made unofficial designs for Insomnia Gaming Festival April 2023. I worked on creating a poster and lanyard pass to be used, using Adobe Photoshop to create these designs.
 <!--more-->
 
 ![](../../img/portfolio/ID-Card-PSD-Stationery-Mockup-1000x750mock_up.png)

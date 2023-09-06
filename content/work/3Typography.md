@@ -7,7 +7,7 @@ title = "LET'S MAKE SOME CHAOS - Typography Project"
 weight = 3
 +++
 
-A quote poster presenting "Let's Make Some Chaos".
+I designed a typography poster for a chosen quote, the chosen quote being 'Let's make some chaos'. I explored my designs with Adobe Photoshop, Adobe Illustrator and Adobe After Effects.
 <!--more-->
 
 ![](../../img/portfolio/Final-Product-Mock-Up.gif)
