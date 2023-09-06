@@ -7,10 +7,10 @@ title = "Hidden Femininity 2022"
 weight = 6
 +++
 
-Hidden Femininity 2022
-Ink and Bleach on Paper
-~ 2 m x 1.5 m
 <!--more-->
+
+* Ink and Bleach on Paper
+* ~ 2 m x 1.5 m
 
 ![](../../img/portfolio/MainWork2_8.jpeg)
 
