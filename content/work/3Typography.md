@@ -14,12 +14,26 @@ I designed a typography poster for a chosen quote, the chosen quote being 'Let's
 
 ## Typography Poster Process
 #### Initial Ideas
-![](../../img/portfolio/typography_initialidea1.png)
-![](../../img/portfolio/typography_initialidea2.png)
-![](../../img/portfolio/typography_initialidea3.gif)
-#### Developments
-![](../../img/portfolio/typography_development.gif)
+![](../../img/portfolio/Typography_initialideaillustrator.png)
+![](../../img/portfolio/Typography_initialideaphotoshop.png)
+![](../../img/portfolio/Typography_initialideaany.png)
+
+![](../../img/portfolio/Typography_nitialideaae1.gif)
+
+![](../../img/portfolio/Typography_nitialideaae2.gif)
+
+#### Developments Through Changes
+![](../../img/portfolio/Typography_Developmentchanges.png)
+![](../../img/portfolio/Typography_Developmentchanges5.gif)
+
 #### Refinements
-![](../../img/portfolio/typography_refinement.gif)
+![](../../img/portfolio/Typography_refinement1.gif)
+
+![](../../img/portfolio/Typography_refinement2.gif)
+
+![](../../img/portfolio/Typography_refinement3.gif)
+
+![](../../img/portfolio/Typography_refinement4.gif)
+
 #### Final
-![](../../img/portfolio/typography_finaldesign.gif)
+![](../../img/portfolio/Typography_refinement4.gif)
