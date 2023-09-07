@@ -14,53 +14,53 @@ I designed an ABC Book on a chosen topic, the topic I picked was Video Games. I 
 
 ## Process of Lettering Display Design
 #### Initial Ideas
-![](../../img/portfolio/LetteringDisplay_InitialIdeas.png)
+![](../../img/portfolio/ABCBookLettering_initialideas.png)
 #### Developments
-![](../../img/portfolio/LetteringDisplay_Development.png)
+![](../../img/portfolio/ABCBookLettering_development.png)
 #### Refinements
-![](../../img/portfolio/LetteringDisplay_Refinements.png)
+![](../../img/portfolio/ABCBookLettering_refinement.png)
 #### Final
-![](../../img/portfolio/LetteringDisplay_FinalDesigns.png)
+![](../../img/portfolio/ABCBookLettering_final.png)
 
 ## Process of Page Layout
 #### Initial Ideas
-![](../../img/portfolio/PageLayout_InitialIdeas.png)
+![](../../img/portfolio/ABCBookPageLayout_initialideas.png)
 #### Developments
-![](../../img/portfolio/PageLayout_Development.png)
+![](../../img/portfolio/ABCBookPageLayout_developments.png)
 #### Refinements
-![](../../img/portfolio/PageLayout_Refinments.png)
+![](../../img/portfolio/ABCBookPageLayout_refinements.png)
 #### Final
-![](../../img/portfolio/PageLayout_FinalDesigns.png)
-
-## Process of Endpaper
-#### Initial Ideas
-![](../../img/portfolio/Endpaper_initialideas.png)
-#### Developments
-![](../../img/portfolio/Endpaper_development.png)
-#### Refinements
-![](../../img/portfolio/Endpaper_refinement.png)
-#### Final
-![](../../img/portfolio/Endpaper_final.png)
+![](../../img/portfolio/ABCBookPageLayout_final.png)
 
 ## Process of Contents Page
 #### Initial Ideas
-![](../../img/portfolio/Contentspage_initialideas.png)
+![](../../img/portfolio/ABCBookContents_initialideas.png)
 #### Developments
-![](../../img/portfolio/Contentspage_developments.png)
+![](../../img/portfolio/ABCBookContents_developments.png)
 #### Refinements
-![](../../img/portfolio/Contentspage_refinements.png)
+![](../../img/portfolio/ABCBookContents_refinements.png)
 #### Final
-![](../..//img/portfolio/Contentspage_final.png)
+![](../../img/portfolio/ABCBookContents_final.png)
+
+## Process of Endpaper
+#### Initial Ideas
+![](../../img/portfolio/ABCBookEndpaper_initialideas.png)
+#### Developments
+![](../../img/portfolio/ABCBookEndpaper_developments.png)
+#### Refinements
+![](../../img/portfolio/ABCBookEndpaper_refinements.png)
+#### Final
+![](../../img/portfolio/ABCBookEndpaper_final.png)
 
 ## Process of Front and Back Cover
 #### Initial Ideas
-![](../../img/portfolio/FrontandBackCover_initialideas.png)
+![](../../img/portfolio/ABCBookCover_initialideas.png)
 #### Developments
-![](../../img/portfolio/FrontandBackCover_development.png)
+![](../../img/portfolio/ABCBookCover_development.png)
 #### Refinements
-![](../../img/portfolio/FrontandBackCover_refinements.png)
+![](../../img/portfolio/ABCBookCover_refinements.png)
 #### Final
-![](../../img/portfolio/FrontandBackCover_finaldesign.png)
+![](../../img/portfolio/ABCBookCover_final.png)
 
 ## Final Designs
 ![](../../img/portfolio/abcbook_final.png)
