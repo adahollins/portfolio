@@ -14,31 +14,27 @@ I made unofficial designs for Insomnia Gaming Festival April 2023. I worked on c
 
 ## Process of Logo
 #### Initial Ideas
-![](../../img/portfolio/insomnialogo_initialideas1.png)
-![](../../img/portfolio/insomnialogo_initialideas2.png)
-![](../../img/portfolio/insomnialogo_initialideas3.png)
+![](../../img/portfolio/Insomnialogo_initialideas.png)
 #### Developments
-![](../../img/portfolio/insomnialogo_development.png)
+![](../../img/portfolio/Insomnialogo_developments.png)
 #### Refinements
-![](../../img/portfolio/insomnialogo_refinement.png)
+![](../../img/portfolio/Insomnialogo_refinements.png)
 
 ## Process of Poster
 #### Initial Ideas
-![](../../img/portfolio/insomniaposter_initialideas1.png)
-![](../../img/portfolio/insomniaposter_initialideas2.png)
-#### Developments
-![](../../img/portfolio/insomniaposter_development.png)
-#### Refinements
-![](../../img/portfolio/insomniaposter_refinement.png)
+![](../../img/portfolio/Insomniaposter_initialideas.png)
+#### Developments Through Changes
+![](../../img/portfolio/Insomniaposter_developments.png)
+#### Refinements Through Changes
+![](../../img/portfolio/Insomniaposter_refinements.png)
 
 ## Process of Lanyard
 #### Initial Ideas
-![](../../img/portfolio/insomnialanyard_initialideas1.png)
-![](../../img/portfolio/insomnialanyard_initialideas2.png)
-#### Developments
-![](../../img/portfolio/insomnialanyard_development.png)
-#### Refinements
-![](../../img/portfolio/insomnialanyard_refinemennt.png)
+![](../../img/portfolio/Insomnialanyardpass_initialideas.png)
+#### Developments Through Changes
+![](../../img/portfolio/Insomnialanyardpass_developments.png)
+#### Refinements Through Changes
+![](../../img/portfolio/Insomnialanyardpass_refinements.png)
 
 ## Final Design
 ![](../../img/portfolio/insomnia_finaldesign.png)
